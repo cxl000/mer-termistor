@@ -1,0 +1,3 @@
+[submodule "termistor"]
+	path = termistor
+	url = https://github.com/giucam/termistor.git
